@@ -1,7 +1,8 @@
 # BinarySearchTree
-                       Root:7
+            Root:7
+
 ```
-   7
+          7
          / \
         5   8
        / \   \
